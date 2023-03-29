@@ -7,7 +7,7 @@
     border-radius: 50px; /*This is for the cave*/
     font-family: Arial, sans-serif;
     
-    position: absolute;
+    position: absolute; /*positioning the form on the middle*/
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%); 
