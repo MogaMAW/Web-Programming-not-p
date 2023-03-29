@@ -46,6 +46,6 @@ input[type="submit"]:last-child {
     margin-right: 0; /* remove the margin from the last button */
   }
   
-  input[type="submit"]:hover {
+  input[type="submit"]:hover { /*Hover effect for the submit button*/
     background-color: #3e8e41;
 }
