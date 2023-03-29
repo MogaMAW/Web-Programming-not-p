@@ -1,0 +1,16 @@
+.Ballot-Form { /*This is for the form*/
+    margin: 10px auto;
+    width: 450px;
+    background-color:cadetblue;
+    padding: 45px; /*This is for the size of the outline (outline of the border)*/
+    border-radius: 50px; /*This is for the cave*/
+    font-family: Arial, sans-serif;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+}
+.Ballot-Form .header{
+    font-size:10;
+}

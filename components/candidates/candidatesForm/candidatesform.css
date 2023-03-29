@@ -1,0 +1,52 @@
+.candidates-form { /*This is for the form*/
+    margin: 20px auto;
+    width: 350px;
+    background-color:cadetblue;
+    padding: 70px; /*This is for the size of the outline*/
+    border-radius: 50px; /*This is for the cave*/
+    font-family: Arial, sans-serif;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+}
+  
+  label { /*This is for the display of the voter's form*/
+    display: block;
+    margin-bottom: 10px; /*Spacing between the input names*/ 
+    font-size: large;
+    color: black;
+    
+}
+  
+  input[type="text"],
+  input[type="text"],
+  input[type="text"],
+  textarea {
+    height: 20px;/*Height of text area*/
+    width: 80%; /*length of text input*/
+    padding: 10px;
+    border-radius:100px;
+    border:blue;
+    margin-bottom: 20px;
+    background-color:aliceblue;
+}
+  
+  input[type="submit"] {
+    background-color: rgb(38, 38, 226);
+    color: white;
+    padding: 8px 10px;
+    border: none;
+    border-radius: 90px;
+    cursor: pointer;
+    margin-right: 150px; /* add margin to the right of the button */
+}
+input[type="submit"]:last-child {
+    margin-right: 0; /* remove the margin from the last button */
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #3e8e41;
+}
+

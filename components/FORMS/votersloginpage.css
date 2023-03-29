@@ -1,0 +1,80 @@
+.voters-form { /*This is for the form*/
+    margin: 10px auto; /*Moves the form up and down*/
+    width:350px; /*This is for the width of the form*/
+    background-color:cadetblue;
+    padding: 80px; /*This is for the size of the outline*/
+    border-radius: 60px; /*This is for the cave*/
+    font-family: Arial, sans-serif;
+
+    
+    
+
+    position: absolute; /*positioning the form on middle of the screen */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+}
+.Header{
+  text-align: center;
+  font-size: 60px;
+  color: white;
+  
+}
+
+.Username{
+  text-align: left;
+  font-size: 20px;
+}
+
+.Password{
+  text-align: left;
+  font-size: 20px;
+}
+
+.login{
+    color: white;
+    padding: 0px 10px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 35%;
+    text-align: center;
+    width:auto 50px;
+}
+
+
+input[type="text"],
+
+input[type="password"],
+  textarea{
+    height: 20px;/*Height of text area*/
+    width: 80%; /*length of text input*/
+    padding: 10px;
+    border-radius:100px;
+    margin-bottom: 20px;
+    background-color:aliceblue;
+    
+  }
+  input[type="submit"] {
+    background-color: rgb(38, 38, 226);
+    color: white;
+    padding: 8px 10px;
+    border: none;
+    border-radius: 80px;
+    cursor: pointer;
+    margin-right: 150px; /* add margin to the right of the button */
+    font-size: 20px;
+}
+
+
+input[type="text"]:hover {
+  background-color:antiquewhite;
+}
+input[type="password"]:hover {
+  background-color:antiquewhite;
+}
+  
+input[type="submit"]:hover {
+    background-color: green;
+}
+

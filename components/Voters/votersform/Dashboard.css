@@ -1,0 +1,40 @@
+.dashboard {
+    display: flex;
+  }
+  
+  .sidebar {
+    flex: 0 10 50%;
+    background-color: cadetblue;
+    padding: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+
+  }
+  
+  .cards-left {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .card {
+    border: 2px solid #ccc;
+    margin: 60px;/* Space between the boxes*/
+    padding: 6px;
+    flex: 0 0 30%;
+  }
+  
+  .small {
+    height: 200px;
+    width: 900px;
+
+  }
+  
+  .big-horizontal {
+    height: 300px;
+    width: 900px;
+  }
+
+  
+ 

@@ -1,0 +1,13 @@
+.Login-form { /*This is for the form*/
+    margin: 20px auto;
+    width: 350px;
+    background-color:cadetblue;
+    padding: 70px; /*This is for the size of the outline*/
+    border-radius: 50px; /*This is for the cave*/
+    font-family: Arial, sans-serif;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+}
