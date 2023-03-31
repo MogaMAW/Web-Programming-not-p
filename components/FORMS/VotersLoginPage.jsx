@@ -19,7 +19,8 @@ const VotersLoginPage = () => {
     
                 <div className="Password">
                 <label htmlFor="Password">Password</label>
-                    <input type="password" required name="Password"/>                  
+                    <input type="password" required name="Password"/>   
+//      taking user password
                 </div>
 
             </form>
