@@ -12,7 +12,8 @@ const VotersLoginPage = () => {
 
             <form action="">   
                 <div className="Username">
-                <label htmlFor="text">Username</label>
+                <label htmlFor="text">Username</label> 
+//                 taking using name
                     <input type="text" required name="text"/>                 
                 </div>
     
