@@ -42,7 +42,7 @@
 
 input[type="text"],/*Text holder*/
 
-input[type="password"],
+input[type="password"],/*passwod holder*/
   textarea{
     height: 20px;/*Height of text area*/
     width: 80%; /*length of text input*/
