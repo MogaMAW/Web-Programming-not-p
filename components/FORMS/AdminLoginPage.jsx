@@ -12,7 +12,7 @@ export const AdminLoginPage = () => {
 
             <form action="">   
                 <div className="adminid">
-                <label htmlFor="text">Adminid</label>
+                <label htmlFor="text">Adminid</label> /*takes in admin id*/
                     <input type="text" required name="text"/>                 
                 </div>
     
