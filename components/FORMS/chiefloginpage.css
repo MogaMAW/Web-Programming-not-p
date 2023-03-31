@@ -65,7 +65,7 @@ input[type="submit"] {
   font-size: 20px;
 }
 
-input[type="text"]:hover {
+input[type="text"]:hover { /*hover effect for text space*/
   background-color:antiquewhite;
 }
 input[type="submit"]:hover { /*hover effect for submit button*/
