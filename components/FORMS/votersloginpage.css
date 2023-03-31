@@ -40,7 +40,7 @@
 }
 
 
-input[type="text"],
+input[type="text"],/*Text holder*/
 
 input[type="password"],
   textarea{
