@@ -12,7 +12,8 @@ export const ChiefLoginPage = () => {
 
             <form action="">   
                 <div className="chiefid">
-                <label htmlFor="text">Chiefid</label>
+                <label htmlFor="text">Chiefid</label> 
+//         taking chief id
                     <input type="text" required name="text"/>                 
                 </div>
     
