@@ -52,7 +52,7 @@ input[type="password"],
     background-color:aliceblue;
     
   }
-  input[type="submit"] {
+  input[type="submit"] { /*for the submit button*/
     background-color: rgb(38, 38, 226);
     color: white;
     padding: 8px 10px;
