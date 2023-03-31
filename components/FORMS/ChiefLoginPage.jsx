@@ -16,7 +16,7 @@ export const ChiefLoginPage = () => {
 //         taking chief id
                     <input type="text" required name="text"/>                 
                 </div>
-    
+//     taking chief name
                 <div className="chiefname">
                 <label htmlFor="text">Chief name</label>
                     <input type="text" required name="text"/>                  
