@@ -44,7 +44,7 @@
 
 
 input[type="text"],
-input[type="text"],
+input[type="text"],/*text holders*/
   textarea{
     height: 20px;/*Height of text area*/
     width: 80%; /*length of text input*/
