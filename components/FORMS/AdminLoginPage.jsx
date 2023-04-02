@@ -7,7 +7,7 @@ export const AdminLoginPage = () => {
     return (
         <div className="Admin-form">
             <div className="Header">
-                Admin login
+                Admin-login.
             </div>
 
             <form action="">   
