@@ -17,7 +17,7 @@ export const AdminLoginPage = () => {
                 </div>
     
                 <div className="adminname">
-                <label htmlFor="text">Admin name</label> /*and admin name*/ 
+                <label htmlFor="text">Admin name</label> //and admin name
                     <input type="text" required name="text"/>                  
                 </div>
 
