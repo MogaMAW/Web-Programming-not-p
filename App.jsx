@@ -4,7 +4,7 @@ import { VotersForm } from './components/Voters/votersform/VotersLoginPage';
 import { PositionsForm } from './components/positions/positionsform/PositionsForm';
 
 import {CandidatesForm} from './components/candidates/candidatesForm/CandidatesForm';
-//import {SideNav} from './components/sidenav/sidenavigation/SideNav';
+import {SideNav} from './components/sidenav/sidenavigation/SideNav';
 //import LogIn from './components/login/loginpage/LogIn'
 //import Sidebar from './components/sidenav/sidenavigation/SideBar';
 //import BallotPage from './components/ballot/BallotPage';
