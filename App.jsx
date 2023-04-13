@@ -1,6 +1,6 @@
 import * as React from 'react'
 
-import { VotersForm } from './components/Voters/votersform/VotersLoginPage';
+//import { VotersForm } from './components/Voters/votersform/VotersLoginPage';
 import { PositionsForm } from './components/positions/positionsform/PositionsForm';
 
 import {CandidatesForm} from './components/candidates/candidatesForm/CandidatesForm';
