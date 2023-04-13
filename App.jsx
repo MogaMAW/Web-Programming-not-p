@@ -1,7 +1,7 @@
 import * as React from 'react'
 
 import { VotersForm } from './components/Voters/votersform/VotersLoginPage';
-//import { PositionsForm } from './components/positions/positionsform/PositionsForm';
+import { PositionsForm } from './components/positions/positionsform/PositionsForm';
 
 //import {CandidatesForm} from './components/candidates/candidatesForm/CandidatesForm';
 //import {SideNav} from './components/sidenav/sidenavigation/SideNav';
