@@ -6,7 +6,7 @@ import { PositionsForm } from './components/positions/positionsform/PositionsFor
 import {CandidatesForm} from './components/candidates/candidatesForm/CandidatesForm';
 import {SideNav} from './components/sidenav/sidenavigation/SideNav';
 import LogIn from './components/login/loginpage/LogIn'
-//import Sidebar from './components/sidenav/sidenavigation/SideBar';
+import Sidebar from './components/sidenav/sidenavigation/SideBar';
 //import BallotPage from './components/ballot/BallotPage';
 //import AssitCR from './components/ballot/AssitCR'
 //import DashBoard from './components/Voters/votersform/DashBoard'
